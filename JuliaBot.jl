@@ -188,7 +188,7 @@ const m_iHealth = 0x324
 
 # Main function to demonstrate usage
 function main()
-    print("JuliaBot is running...")
+    print("🚀 JuliaBot is running...")
     process_name = "cs2.exe"
     process_id = get_process_id_by_name(process_name)
     process_handle = OpenProcess(PROCESS_ALL_ACCESS, false, process_id)
