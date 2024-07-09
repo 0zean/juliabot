@@ -1,5 +1,5 @@
 
-![juliabot](https://socialify.git.ci/0zean/juliabot/image?description=1&descriptionEditable=read-only%20memory%20framework%20for%20julia&font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
+![juliabot](https://socialify.git.ci/0zean/juliabot/image?description=1&descriptionEditable=read-only%20memory%20framework%20for%20julia&font=Source%20Code%20Pro&language=1&logo=https%3A%2F%2Fwww.nicepng.com%2Fpng%2Ffull%2F176-1762253_circle-water-ocean-blue-wave-aesthetic-overlay-tumblr.png&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
 
 <div align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
