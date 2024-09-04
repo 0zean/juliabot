@@ -180,8 +180,8 @@ end
 
 
 # Offsets
-const dwEntityList = 0x1969518
-const dwLocalPlayerPawn = 0x17D4810
+const dwEntityList = 0x1956A68
+const dwLocalPlayerPawn = 0x17C37F0
 const m_iIDEntIndex = 0x13A8
 const m_iTeamNum =0x3C3
 const m_iHealth = 0x324
