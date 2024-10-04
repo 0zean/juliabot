@@ -180,11 +180,11 @@ end
 
 
 # Offsets
-const dwEntityList = 0x1954568
-const dwLocalPlayerPawn = 0x17C17F0
-const m_iIDEntIndex = 0x13A8
-const m_iTeamNum =0x3C3
-const m_iHealth = 0x324
+const dwEntityList = 0x19BAC58
+const dwLocalPlayerPawn = 0x18220C8
+const m_iIDEntIndex = 0x1450
+const m_iTeamNum =0x3E3
+const m_iHealth = 0x344
 
 # Main function to demonstrate usage
 function main()
